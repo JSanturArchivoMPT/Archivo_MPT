@@ -327,13 +327,13 @@ Los resultados proporcionados por el sistema deben utilizarse como referencias d
 
 Software desarrollado para fines de consulta, localización y apoyo a la gestión documental institucional.
 
-© 2026 **JSANTUR** — Todos los derechos reservados.
+© 2026 **JSANTUR** — Todos los Derechos Reservados.
 
 ---
 
 <p align="center">
   <strong>JSanturArchivo_MPT</strong><br>
-  Sistema Inteligente de Consulta Documental
+  _Sistema Inteligente de Consulta Documental_
 </p>
 
 <p align="center">
